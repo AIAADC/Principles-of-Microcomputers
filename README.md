@@ -16,6 +16,7 @@
 
 本次整理第 1–6 章课件、8086 指令参考、2026 实验指导书、实验模板与验收说明，以及星研软件和配套手册。共 24 个原始文件，其中 2 个大文件通过 Releases 下载。
 
+
 ## 🗂️ 文件导航
 
 | 文件 | 大小 | 内容 / 获取方式 |
@@ -37,7 +38,7 @@
 | [微机原理资料包/微机原理资料包/补丁/DirectX4.0.zip](https://github.com/AIAADC/Principles-of-Microcomputers/releases/download/course-materials-20261103/DirectX4.0.zip) | 185.55 MiB | Releases 下载 |
 | [微机原理资料包/微机原理资料包/补丁/VC2018.zip](./%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%B5%84%E6%96%99%E5%8C%85/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%B5%84%E6%96%99%E5%8C%85/%E8%A1%A5%E4%B8%81/VC2018.zip) | 36.35 MiB | 见原文件 |
 | [微机原理资料包/微机原理资料包/补丁/vcredist.zip](./%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%B5%84%E6%96%99%E5%8C%85/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%B5%84%E6%96%99%E5%8C%85/%E8%A1%A5%E4%B8%81/vcredist.zip) | 13.69 MiB | 见原文件 |
-| [微机原理资料包.zip](https://github.com/AIAADC/Principles-of-Microcomputers/releases/download/course-materials-20261103/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%B5%84%E6%96%99%E5%8C%85.zip) | 319.84 MiB | Releases 下载 |
+| [微机原理资料包.zip](https://github.com/AIAADC/Principles-of-Microcomputers/releases/download/course-materials-20261103/microcomputer-lab-materials.zip) | 319.84 MiB | Releases 下载 |
 | [第2章_8086CPU.pptx](./%E7%AC%AC2%E7%AB%A0_8086CPU.pptx) | 911.6 KiB | 83 页；8086 结构、寄存器、引脚和总线时序 |
 | [第3章_8086的寻址方式和指令系统.pptx](./%E7%AC%AC3%E7%AB%A0_8086%E7%9A%84%E5%AF%BB%E5%9D%80%E6%96%B9%E5%BC%8F%E5%92%8C%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F.pptx) | 1.42 MiB | 168 页；寻址方式与 8086 指令系统 |
 | [第4章汇编语言程序设计.pptx](./%E7%AC%AC4%E7%AB%A0%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.pptx) | 543.2 KiB | 122 页；程序格式、伪指令、DOS/BIOS 调用和程序设计 |

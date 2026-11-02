@@ -5,7 +5,7 @@
 | 原资料路径 | 大小 | 下载 |
 | --- | ---: | --- |
 | `微机原理资料包/微机原理资料包/补丁/DirectX4.0.zip` | 185.55 MiB | [下载原文件](https://github.com/AIAADC/Principles-of-Microcomputers/releases/download/course-materials-20261103/DirectX4.0.zip) |
-| `微机原理资料包.zip` | 319.84 MiB | [下载原文件](https://github.com/AIAADC/Principles-of-Microcomputers/releases/download/course-materials-20261103/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E8%B5%84%E6%96%99%E5%8C%85.zip) |
+| `微机原理资料包.zip` | 319.84 MiB | [下载原文件](https://github.com/AIAADC/Principles-of-Microcomputers/releases/download/course-materials-20261103/microcomputer-lab-materials.zip) |
 
 完整资料包包含实验指导书、报告空白模板、验收与常见问题说明、星研软件/手册及配套补丁。仓内也保留可单独获取的解压文件；压缩包和解压目录内容存在重复，按需下载即可。
 
